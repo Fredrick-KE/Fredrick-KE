@@ -1,5 +1,5 @@
 ### Hi there 👋
-💬 I’m Fredrick,BIT Student at Kenyatta University and tech enthusiast<br> 
+💬 I’m Fredrick, BIT Student at Kenyatta University and tech enthusiast<br> 
 🔭 I’m a Network Associate, HCIA-Security Certified<br>
 🌱 K.U Huawei  Campus Ambassador<br>
 👀 I’m interested in android, web, machine learning, HCI, Cloud AI and Linux technologies.<br>
