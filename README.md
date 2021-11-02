@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m a Network Associate
+🌱 K.U Huawei  Campus Ambassador
+💬 A FREE thinker
  I’m Fredrick,BIT Student at Kenyatta University and tech enthusiast
 👀 I’m interested in android, web, machine learning, HCI, Cloud AI and Linux technologies.
 🌱 I’m currently learning Python and JS
