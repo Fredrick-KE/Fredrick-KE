@@ -13,3 +13,4 @@
 ![Fredrick-KE stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&show_icons=true)
 ![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&theme=jolly&show_icons=true)
 
+![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&theme=omni&show_icons=true)
