@@ -21,8 +21,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=gruvbox_light&repo=github-readme-stats" />
 </a><br>
-<a href="https://github.com/anuraghazra/FredrickChat"><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=highcontrast&repo=Fredrickchat" />
+<a href="https://github.com/anuraghazra/Convoy chat"><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=highcontrast&repo=Convoy chat" />
 </a><br><br>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
