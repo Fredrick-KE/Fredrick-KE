@@ -25,4 +25,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=highcontrast&repo=Convoychat" />
 </a><br><br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredrick-KE)](https://github.com/Fredrick-KE/github-readme-stats)
+
