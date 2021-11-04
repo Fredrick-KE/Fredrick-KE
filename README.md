@@ -10,11 +10,9 @@
 
 
 
-![Fredrick-KE stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&show_icons=true)
-![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&theme=jolly&show_icons=true)
 
 ![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&theme=omni&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredrick-KE&repo=github-readme-stats)](https://github.com/Fredrick-KE/github-readme-stats)
 
 
