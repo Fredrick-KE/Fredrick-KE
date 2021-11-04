@@ -12,3 +12,6 @@
 [![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE)](https://github.com/Fredrick-KE/github-readme-stats)
 
 ![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&hide=contribs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
