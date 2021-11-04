@@ -5,7 +5,7 @@
 <li>🎓 I’m interested in android, web, machine learning, Cloud, Big Data, AI and Linux tech</li> 
 <li>🌱 I’m currently learning Python, HCIA-Datacom and JS</li>
 <li>💼 I’m looking to collaborate on open source community-focused projects</li>
-<li>📫 How to reach me: njugunafredrick69@gmail.com</li>
+<li>📫 How to reach me: <a href ="https://fredrick-Ke.github.io/fred">Click Here</a></li>
 <li>👀 Portfolio: https://fredrick-Ke.github.io/fred</li><br>
 
 
