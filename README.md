@@ -22,5 +22,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=highcontrast&repo=Convoychat" />
 </a><br><br>
 
-
-https://github.com/SkalskiP/make-sense.git
