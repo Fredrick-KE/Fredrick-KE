@@ -10,7 +10,7 @@
 
 
 
-<div><p>
+<p>
 ![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&theme=maroongold&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-KE&theme=omni&layout=compact)](https://github.com/Fredrick-KE/github-readme-stats)</p></div>
 
 <a href="https://github.com/Fredrick-KE/github-readme-stats">
