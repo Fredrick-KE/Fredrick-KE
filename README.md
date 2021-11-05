@@ -9,13 +9,6 @@
 <li>👀 Portfolio: https://fredrick-Ke.github.io/fred</li><br>
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3557853402121011"
-     crossorigin="anonymous"></script>
-
-
-
-
-
 
 
 ![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&theme=maroongold&show_icons=true)
