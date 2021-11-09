@@ -13,8 +13,9 @@
 
 
 
-
+<h3>Stats</h3>
 ![Fredrick-KE GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredrick-KE&theme=maroongold&show_icons=true)
+<h3>Languages</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-KE&theme=omni&layout=compact)](https://github.com/Fredrick-KE/github-readme-stats)
 
 
