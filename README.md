@@ -24,3 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=highcontrast&repo=Convoychat" />
 </a><br><br>
 
+<p dir="auto"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/ab5418bd7126d963c5f1e8514f40868be022bbe9f37da73b4e3e259f2275786a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616d696c616d656e267468656d653d6f6e656461726b" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=amilamen&amp;theme=onedark" style="max-width: 100%;"></a></p>
+
+
