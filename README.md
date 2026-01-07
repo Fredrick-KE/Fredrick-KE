@@ -6,7 +6,7 @@
 <li style="font-weight: bolder;  font-size: 16px;">🔭 I’m a Network Associate: Cisco and HCIA-Cyber Security Certified</li>
 <li>📚 Kenyatta University Huawei  Campus Ambassador
 <li>🎓 I’m interested in Cloud Computing, Big Data, and Security Pen Testing using Kali Linux</li> 
-<li>🌱 I’m currently learning Machine Learning- A.I., HCIA-Datacom and JS</li>
+<li>🌱 I’m currently learning Machine Learning- A.I., HCIA-Datacom and Node JS</li>
 <li>💼 I’m looking to collaborate on open source community-focused projects</li>
 <li>📫 How to reach me: <a href ="https://fredrick-Ke.github.io/fred">Click Here</a></li>
 <li>👀 Portfolio: https://fredrick-Ke.github.io/fred</li><br>
