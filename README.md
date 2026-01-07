@@ -2,11 +2,11 @@
 <h1>Code_with_Fredrick</h1>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a4282b5c7bc174a7aac59e29e175344b8d8bd3b3a6d0bc71ec01b35a0277e4bc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37714531594e3761424f4650527738452f67697068792e676966"><img src="https://camo.githubusercontent.com/a4282b5c7bc174a7aac59e29e175344b8d8bd3b3a6d0bc71ec01b35a0277e4bc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37714531594e3761424f4650527738452f67697068792e676966" width="300" height="200" data-canonical-src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" style="max-width: 100%;"></a></p>
 
-<p>I’m Fredrick, BIT Student at Kenyatta University and Tech Enthusiast</p>
+<p>I’m Fredrick, a Graduate from Kenyatta University and Tech Enthusiast</p>
 <li style="font-weight: bolder;  font-size: 16px;">🔭 I’m a Network Associate: Cisco and HCIA-Cyber Security Certified</li>
 <li>📚 Kenyatta University Huawei  Campus Ambassador
-<li>🎓 I’m interested in android, web, Python, Cloud, Big Data, and Linux tech</li> 
-<li>🌱 I’m currently learning Machine Learning- A.I, HCIA-Datacom and JS</li>
+<li>🎓 I’m interested in Cloud Computing, Big Data, and Security Pen Testing using Kali Linux</li> 
+<li>🌱 I’m currently learning Machine Learning- A.I., HCIA-Datacom and JS</li>
 <li>💼 I’m looking to collaborate on open source community-focused projects</li>
 <li>📫 How to reach me: <a href ="https://fredrick-Ke.github.io/fred">Click Here</a></li>
 <li>👀 Portfolio: https://fredrick-Ke.github.io/fred</li><br>
